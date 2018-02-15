@@ -1,2 +1,5 @@
-# PocketMine-MP
-PocketMine-MP 플러그인 다운로드 목록
+# PocketMine-MP Plugins
+
+• Made By MineDefenser
+
+• ZEROSM Network Inc.
